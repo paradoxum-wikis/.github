@@ -6,11 +6,6 @@ This organization houses repositories that are used on **ALTER EGO Wiki**, **Tow
 * https://tds.fandom.com/ (https://tds.wiki/)
 * https://alter-ego.fandom.com/ (https://alterego.wiki/)
 
-...and their companion sites:
-* https://tds-editor.com/
-* https://ae.tds-editor.com/
-* https://resources.tds-editor.com/
-
 ## Joining the Organization
 
 If you are an editor on **TDS Wiki** or **ALTERPEDIA**, message us on either Discord server! We'll send you an invite.
@@ -19,4 +14,4 @@ Once you accept the invite, you will have access to the private repositories her
 
 ----
 
-**Not affiliated with Paradoxum Games.** This is a community-made project.
+**Not to be confused with Paradoxum Games.** This is a community-run project.
